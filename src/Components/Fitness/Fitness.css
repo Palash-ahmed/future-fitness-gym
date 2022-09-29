@@ -1,6 +1,6 @@
 .fitness{
     width: 270px;
-    height: 430px;
+    height: 450px;
     background-color: #f0f8ff;
     box-shadow: -5px -5px 12px #ffffff,
                 5px 5px 12px rgba(0,0,0,.16); 
@@ -37,7 +37,7 @@
 .button-cart{
     width: 90%;
     margin: auto;
-    background: rgb(2, 255, 2);
+    background-color: rgb(2, 255, 2);
     border-radius: 0px 0px 8px 8px;
     border: none;
     border-radius: 8px;

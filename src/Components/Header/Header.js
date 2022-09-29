@@ -3,7 +3,6 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div>
            <nav className = 'header'>
            <h1 className='future-fitness'>Future<span id='fit'>Fitness</span></h1>
             <div>
@@ -13,8 +12,7 @@ const Header = () => {
                 <a href = "/training">Your Training</a>
                 <a href = "/contact">Contact Us</a>
             </div>
-        </nav> 
-        </div>
+        </nav>
     );
 };
 
