@@ -13,6 +13,12 @@ const Gym = () => {
     },[]);
 
 
+    const [cart, setCart] = useState([]);
+    const addToList = gym =>{
+        const newCart = [...cart, gym];
+        setCart(newCart);
+    }
+
     return (
         <div className='fit-container'>
             <div className='fittest-container'>
@@ -20,12 +26,16 @@ const Gym = () => {
                 fitnesses.map(fitness => <Fitness
                 key = {fitness.id}
                 fitness = {fitness}
+                addToList = {addToList}
                 ></Fitness>)
              }
+
+
             </div>
             <div className = "cart-container">
-                <Cart></Cart>
-               {/* <Cart cart={cart}></Cart> */}
+                <Cart 
+                cart={cart}
+                ></Cart>
             </div>
         </div>
     );

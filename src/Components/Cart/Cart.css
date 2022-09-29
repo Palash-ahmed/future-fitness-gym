@@ -1,7 +1,7 @@
-.cart{
+/* .cart{
     position: sticky;
     top: 0;
-}
+} */
 .cart-header{
     display: flex;
 }
@@ -42,16 +42,17 @@ small{
 .add-break{
     background-color: #f5fcff;
     width: 90%;
-    height: 50px;
+    height: 100px;
     margin: auto;
     border: 1px solid gainsboro;
     border-radius: 8px;
     padding: 8px;
 }
 .add-break button{
-    height: 50px;
-    margin-left: 3px;
-    margin-right: 5px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     font-size: 16px;
     border: none;
     border-radius: 50%;
@@ -68,7 +69,7 @@ small{
 .exercise-time{
     background-color: #f5fcff;
     width: 90%;
-    height: 20px;
+    height: 40px;
     font-weight: 600;
     margin: auto;
     border: 1px solid gainsboro;
@@ -78,7 +79,7 @@ small{
 .break-time{
     background-color: #f5fcff;
     width: 90%;
-    height: 20px;
+    height: 40px;
     font-weight: 600;
     margin: auto;
     margin-top: 10px;
