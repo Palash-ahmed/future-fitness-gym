@@ -1,0 +1,84 @@
+[
+    {
+        "id": "palash 25",
+        "category": "Fitness Exercise",
+        "name": "Pull Up",
+        "paragraph": "The pull up is a classic bodyweight exercise used to train the upper back for strength, muscle building, and general fitness. The only Exercise... ",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1605296867424-35fc25c9212a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+    {
+        "id": "palash 26",
+        "category": "Fitness Exercise",
+        "name": "Push Up",
+        "paragraph": "By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to ...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1616803689943-5601631c7fec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+    {
+        "id": "palash 27",
+        "category": "Fitness Exercise",
+        "name": "Plank",
+        "paragraph": "The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1626444231642-6bd985bca16a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+      },
+    {
+        "id": "palash 28",
+        "category": "Fitness Exercise",
+        "name": "Jogging",
+        "paragraph": "Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body than ...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/flagged/photo-1556746834-1cb5b8fabd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+      },
+    {
+        "id": "palash 29",
+        "category": "Fitness Exercise",
+        "name": "Burbell",
+        "paragraph": "Barbell training tops the list of training methods that are versatile and effective. Not only will barbell workouts increase muscle mass,power...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+    {
+        "id": "palash 30",
+        "category": "Fitness Exercise",
+        "name": "Dumbbell",
+        "paragraph": "Best Dumbbell Exercises for Building Muscle. Develop total-body strength and build maximum muscle mass with a simple set of dumbbells...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+    {
+        "id": "palash 31",
+        "category": "Fitness Exercise",
+        "name": "Yoga",
+        "paragraph": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India and aim to control (yoke) and still the mind... ",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=920&q=80"
+      },
+    {
+        "id": "palash 32",
+        "category": "Fitness Exercise",
+        "name": "Abs Workout",
+        "paragraph": "Some of the most common exercises to strengthen your rectus abdominis are crunches and regular sit ups. These exercises are easy to do...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+    {
+        "id": "palash 33",
+        "category": "Fitness Exercise",
+        "name": "Chest Workout",
+        "paragraph": "Target your lower, middle and upper chest with our wide range of chest workout plans. The workouts are created by fitness experts...",
+        "forAge": "20-25",
+        "timeRequired": 30,
+        "img": "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+      }
+  ]
+  

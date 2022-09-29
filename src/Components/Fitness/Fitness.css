@@ -1,0 +1,51 @@
+.fitness{
+    width: 270px;
+    height: 470px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+.fitness img{
+    width: 255px;
+    height: 190px;
+    margin: 7px;
+    border-radius: 8px;
+}
+.fitness-info{
+    margin: 0 14px;
+}
+.fitness-info p{
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.fitness-name{
+    font-family: 'Lota';
+    font-size: 21px;
+    font-style: 'normal';
+    font-weight: 600;
+    line-height: 25px;
+    margin-top: 7px;
+}
+.button-cart .btn-text{
+    margin-right: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.button-cart{
+    width: 90%;
+    margin: auto;
+    background: rgb(2, 255, 2);
+    border-radius: 0px 0px 8px 8px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button-cart:hover{
+    background-color: goldenrod;
+}
+.age, .time{
+    font-weight: 600;
+}
