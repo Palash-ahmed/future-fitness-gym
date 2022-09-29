@@ -1,13 +1,16 @@
 .fitness{
     width: 270px;
-    height: 470px;
-    border: 1px solid #95A0A7;
+    height: 430px;
+    background-color: #f0f8ff;
+    box-shadow: -5px -5px 12px #ffffff,
+                5px 5px 12px rgba(0,0,0,.16); 
+    border: 1px solid gainsboro;
     border-radius: 8px;
     position: relative;
 }
 .fitness img{
     width: 255px;
-    height: 190px;
+    height: 150px;
     margin: 7px;
     border-radius: 8px;
 }
@@ -44,7 +47,7 @@
     justify-content: center;
 }
 .button-cart:hover{
-    background-color: goldenrod;
+    background-color: #b7e9f7;
 }
 .age, .time{
     font-weight: 600;

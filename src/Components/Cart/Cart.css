@@ -1,0 +1,55 @@
+.cart-header{
+    display: flex;
+}
+.cart-header img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    padding: 10px;
+}
+.location{
+    font-size: 12px;
+    color: rgb(80, 79, 79);
+    padding-left: 10px;
+    line-height: 20px;
+}
+.myself{
+    background-color: #f5fcff;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    border: 2px solid gainsboro;
+    border-radius: 8px;
+    line-height: 5px;
+}
+#weight{
+    margin-left: 15px;
+    margin-right: 25px;
+}
+#height{
+    margin-right: 25px;
+    line-height: 7px;
+}
+small{
+    font-size: 14px;
+    color: gray;
+}
+.add-break{
+    background-color: #f5fcff;
+    width: 90%;
+    height: 50px;
+    margin: auto;
+    border: 2px solid gainsboro;
+    border-radius: 8px;
+    padding: 8px;
+}
+.add-break button{
+    height: 50px;
+    margin-left: 3px;
+    margin-right: 5px;
+    font-size: 18px;
+    border: none;
+    border-radius: 50%;
+    padding: 5px;
+}

@@ -14,7 +14,7 @@
         "name": "Push Up",
         "paragraph": "By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to ...",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 45,
         "img": "https://images.unsplash.com/photo-1616803689943-5601631c7fec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
     {
@@ -23,7 +23,7 @@
         "name": "Plank",
         "paragraph": "The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time...",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 60,
         "img": "https://images.unsplash.com/photo-1626444231642-6bd985bca16a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
       },
     {
@@ -32,16 +32,16 @@
         "name": "Jogging",
         "paragraph": "Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body than ...",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 300,
         "img": "https://images.unsplash.com/flagged/photo-1556746834-1cb5b8fabd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
       },
     {
         "id": "palash 29",
         "category": "Fitness Exercise",
-        "name": "Burbell",
+        "name": "Barbell",
         "paragraph": "Barbell training tops the list of training methods that are versatile and effective. Not only will barbell workouts increase muscle mass,power...",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 45,
         "img": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
     {
@@ -59,7 +59,7 @@
         "name": "Yoga",
         "paragraph": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India and aim to control (yoke) and still the mind... ",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 60,
         "img": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=920&q=80"
       },
     {
@@ -68,7 +68,7 @@
         "name": "Abs Workout",
         "paragraph": "Some of the most common exercises to strengthen your rectus abdominis are crunches and regular sit ups. These exercises are easy to do...",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 25,
         "img": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
     {
@@ -77,7 +77,7 @@
         "name": "Chest Workout",
         "paragraph": "Target your lower, middle and upper chest with our wide range of chest workout plans. The workouts are created by fitness experts...",
         "forAge": "20-25",
-        "timeRequired": 30,
+        "timeRequired": 40,
         "img": "https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
       }
   ]
