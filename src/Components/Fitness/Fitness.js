@@ -10,7 +10,7 @@ const Fitness = (props) => {
             <div className='fitness-info'>
                 <h2>{name}</h2>
                 <p> {paragraph}</p>
-                <p>For Age: <span className='age'>{age}Yrs</span></p>
+                <p>For Age: <span className='age'>{age} yrs</span></p>
                 <p>Time Required: <span className='time'>{time}s</span></p>
             </div>
             <button onClick = {() => props.addToList(props.fitness)} className = 'button-cart'>

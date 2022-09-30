@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import image from '../../images/Palash.jpg'
 import {addToDataBase} from '../utilities/Fakedb'
 import './Cart.css'
+import{ToastContainer, toast} from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 
 const Cart = (props) => {
     let totalTime = 0;
@@ -43,6 +46,12 @@ const Cart = (props) => {
         setSeconds(60);
         addToDataBase(60)
     }
+
+    const handleToast = () => {
+        toast(<h1>Congratulations <br /> <small>You have completed your Todays Activities</small></h1>,
+           {position: toast.POSITION.TOP_CENTER})
+        // toast("You have completed your todays task")
+    }
     return (
         <div className='cart'>
            <div className='cart-header'>
@@ -58,7 +67,7 @@ const Cart = (props) => {
                     <h2>5.6</h2>
                     <p>Height</p>
                 </div>
-                <div>
+                <div id='ages'>
                     <h2>26<small>yrs</small></h2>
                     <p>Age</p>
                 </div>
@@ -80,7 +89,8 @@ const Cart = (props) => {
                 <div className='break-time'>
                     <p>Break time: {seconds} seconds</p>
                 </div>
-                <button className='activity'>Activity Completed</button>
+                <button className='activity' onClick={handleToast}>Activity Completed</button>
+                <ToastContainer/>
            </div>
         </div>
     );

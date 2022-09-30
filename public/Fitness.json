@@ -18,14 +18,15 @@
         "img": "https://images.unsplash.com/photo-1616803689943-5601631c7fec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
       },
     {
-        "id": "palash 27",
+        "id": "palash 26",
         "category": "Fitness Exercise",
         "name": "Plank",
         "paragraph": "The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time...",
         "age": "20-25",
-        "time": 60,
-        "img": "https://imås.unsplash.com/photo-1626444231642-6bd985bca16a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+        "time": 40,
+        "img": "https://images.unsplash.com/photo-1626444231642-6bd985bca16a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
       },
+    
     {
         "id": "palash 28",
         "category": "Fitness Exercise",

@@ -1,9 +1,11 @@
-/* .cart{
+.cart{
     position: sticky;
     top: 0;
-} */
+    margin-bottom: 20px;
+}
 .cart-header{
     display: flex;
+    margin-bottom: 10px;
 }
 .cart-header img{
     width: 50px;
@@ -35,6 +37,9 @@
     margin-right: 25px;
     line-height: 7px;
 }
+#ages{
+    margin-right: 25px;
+}
 small{
     font-size: 14px;
     color: gray;
@@ -59,42 +64,33 @@ small{
     padding: 5px;
 }
 .break{
-    margin-top: 30px;
+    /* margin-top: 30px; */
     text-align: center;
 }
 .exercise-details{
-    margin-top: 50px;
+    /* margin-top: 50px; */
     text-align: center;
 }
-.exercise-time{
+.exercise-time, .break-time{
     background-color: #f5fcff;
     width: 90%;
-    height: 40px;
+    height: 50px;
+    gap:20px;
     font-weight: 600;
     margin: auto;
     border: 1px solid gainsboro;
     border-radius: 8px;
     padding: 8px;
 }
-.break-time{
-    background-color: #f5fcff;
-    width: 90%;
-    height: 40px;
-    font-weight: 600;
-    margin: auto;
-    margin-top: 10px;
-    border: 1px solid gainsboro;
-    border-radius: 8px;
-    padding: 8px;
-}
+
 .activity{
     background-color: rgb(2, 255, 2);
     width: 90%;
-    height: 50px;
+    height: 80px;
     font-size: 20px;
     font-weight: 600;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 15px;
     border: 1px solid gainsboro;
     border-radius: 8px;
