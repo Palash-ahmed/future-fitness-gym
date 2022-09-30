@@ -5,7 +5,7 @@ const Header = () => {
     return (
            <nav className = 'header'>
            <h1 className='future-fitness'>Future<span id='fit'>Fitness</span></h1>
-            <div>
+            <div className='anchor'>
                 <a href = "/fitness">Future Fitness</a>
                 <a href = "/join">Join</a>
                 <a href = "/club">Your Club</a>
